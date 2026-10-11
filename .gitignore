@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.idea/
+.venv/
+venv/
+
+# 模型权重超过 GitHub 单文件 100MB 限制
+ZST_code/bert-base-chinese/*.bin
+ZST_code/bert-base-chinese/*.h5
+ZST_code/bert-base-chinese/*.safetensors
+
+# 本地生成的向量库
+ZST_code/Chroma/
+ZST_code/Tests/Chroma/
