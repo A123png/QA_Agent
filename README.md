@@ -26,10 +26,8 @@ Gradio：
 ![Gradio 界面](images/gradio-1.png)
 ![Gradio 对话](images/gradio-2.png)
 
-## 代码
-
-核心代码在 `ZST_code`。安装依赖：
+## 运行
 
 ```bash
-pip install -r ZST_code/requirements.txt
+pip install -r requirements.txt
 ```
